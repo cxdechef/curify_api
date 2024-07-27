@@ -1,0 +1,100 @@
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/appsettings.Development.json
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/appsettings.json
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/curifyapi
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/curifyapi.deps.json
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/curifyapi.runtimeconfig.json
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/curifyapi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/curifyapi.pdb
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Humanizer.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Npgsql.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.AssemblyReference.cache
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.AssemblyInfoInputs.cache
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.AssemblyInfo.cs
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.curifyapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.build.curifyapi.props
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.curifyapi.props
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.curifyapi.props
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/scopedcss/bundle/curifyapi.styles.css
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.CopyComplete
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/refint/curifyapi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.pdb
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/curifyapi.genruntimeconfig.cache
+/Users/em/Desktop/Health Care Application/curifyapi/obj/Debug/net7.0/ref/curifyapi.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/em/Desktop/Health Care Application/curifyapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/appsettings.Development.json
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/appsettings.json
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/curifyapi
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/curifyapi.deps.json
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/curifyapi.runtimeconfig.json
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/curifyapi.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/curifyapi.pdb
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Humanizer.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Npgsql.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.AssemblyReference.cache
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.AssemblyInfoInputs.cache
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.AssemblyInfo.cs
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.curifyapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.build.curifyapi.props
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.curifyapi.props
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.curifyapi.props
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/scopedcss/bundle/curifyapi.styles.css
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.csproj.CopyComplete
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/refint/curifyapi.dll
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.pdb
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/curifyapi.genruntimeconfig.cache
+/Users/em/Desktop/Healthcare Application/curifyapi/obj/Debug/net7.0/ref/curifyapi.dll
